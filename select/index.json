@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Sky☆Blue",
+  "base_artist": "777☆SISTERS",
+  "createdAt": "2025-12-14T11:51:30.645030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sky Blue Sky",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/01_Sky_Blue_Sky_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sky Blue",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/02_Sky_Blue_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sky Blue",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/03_Sky_Blue_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sky & blue",
+      "artist": "GIRLFRIEND",
+      "has_synced": false,
+      "path": "select/04_sky_&_blue_GIRLFRIEND.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "sky & blue",
+      "artist": "GIRLFRIEND",
+      "has_synced": true,
+      "path": "select/05_sky_&_blue_GIRLFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sky Blue and Black",
+      "artist": "Jackson Browne",
+      "has_synced": true,
+      "path": "select/06_Sky_Blue_and_Black_Jackson_Browne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sky Blue And Black",
+      "artist": "Jackson Browne",
+      "has_synced": true,
+      "path": "select/07_Sky_Blue_And_Black_Jackson_Browne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sky Blue Red Bird Green House",
+      "artist": "Adrian Belew",
+      "has_synced": false,
+      "path": "select/08_Sky_Blue_Red_Bird_Green_House_Adrian_Belew.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Feeder",
+      "has_synced": true,
+      "path": "select/09_Blue_Sky_Blue_Feeder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Through Sky Blue Rooms",
+      "artist": "Black Tape for a Blue Girl",
+      "has_synced": false,
+      "path": "select/10_Through_Sky_Blue_Rooms_Black_Tape_for_a_Blue_Girl.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Through Sky Blue Rooms (live)",
+      "artist": "Black Tape for a Blue Girl",
+      "has_synced": false,
+      "path": "select/11_Through_Sky_Blue_Rooms_(live)_Black_Tape_for_a_Blue_Girl.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sun Red Sky Blue",
+      "artist": "Kenna",
+      "has_synced": true,
+      "path": "select/12_Sun_Red_Sky_Blue_Kenna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sky☆Blue",
+      "artist": "777☆SISTERS",
+      "has_synced": false,
+      "path": "select/pl_01_Sky☆Blue_777☆SISTERS.txt"
+    }
+  ]
+}
